@@ -1,0 +1,17 @@
+{
+  "0": [
+    "THE GAME",
+    "",
+    "Rota is a Roman game similar to noughts and crosses (aka tic-tac-toe). It is a two-player game where each player takes turns placing \"pins\" on the board, until both players have placed three pins each. Then, they take turns moving a pin into an empty adjacent space (connected with a line). Pins cannot jump over other pins, meaning a pin that has no empty space next to it is blocked. The game is won when one of the players has three pins in a row."
+  ],
+  "1": [
+    "SINGLE PLAYER",
+    "",
+    "Click on a space to place a blue pin. Then the computer will automatically place a red one. Repeat this until there are 3 pins of each colour on the board. Then, move one of your blue pins to an adjacent space by clicking on it to empty the space and clicking on the new space. Click on the \"Computer Turn\" button for the computer to make a turn. When the game is won, a message will appear on the screen."
+  ],
+  "2": [
+    "MULTIPLAYER",
+    "",
+    "Decide who is playing as Blue and who is playing as Red. Left-click an empty space to place/move a blue \"pin\", right-click for red. To move a pin, click on the pin you want to move to make the space empty, and left-/right-click the desired empty space to place your pin. When the game is won, a message will appear on the screen."
+  ]
+}
